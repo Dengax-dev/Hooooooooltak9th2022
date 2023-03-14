@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "usart.h": "c",
+        "tjc.h": "c",
+        "image_2k.h": "c",
+        "ht32.h": "c",
+        "ht32f5xxxx_usart.h": "c",
+        "delay.h": "c",
+        "sht20.h": "c",
+        "ht32f52352_sk.h": "c",
+        "dht11.h": "c",
+        "led.h": "c",
+        "esp8266.h": "c",
+        "ht32_board.h": "c",
+        "rain.h": "c",
+        "ht32_board_config.h": "c",
+        "pwm.h": "c",
+        "exti.h": "c",
+        "onenet.h": "c",
+        "algorithm": "c",
+        "ht32f5xxxx_gpio.h": "c"
+    }
+}
